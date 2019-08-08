@@ -1,0 +1,25 @@
+{
+  "name": "auth_nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs Authentication Using JWT and Refresh Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stupidguy176/auth_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stupidguy176/auth_nodejs/issues"
+  },
+  "homepage": "https://github.com/stupidguy176/auth_nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
